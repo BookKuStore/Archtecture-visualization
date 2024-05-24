@@ -1,6 +1,6 @@
 # Architecture-visualization
 
-## Current Architecture
+## Kupon Service
 
 <details>
   <summary>
@@ -19,13 +19,3 @@
   ![kupon_bookku](https://github.com/BookKuStore/Archtecture-visualization/assets/120235144/5d3b0cbf-1c8f-4bb4-92f9-2509a66ac0a3)
 
 </details>
-
-<details>
-  <summary>
-    Deployment Diagram
-  </summary>
-  
-</details>
-
-
-Secara keseluruhan, diagram-diagram di atas dapat dilihat pada https://www.figma.com/board/21XXjJDWwlfjrQQCXWIqT0/Software-Architecture---A8?node-id=0-1&t=TtlDzvG3e689Q4fV-1
