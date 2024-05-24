@@ -5,57 +5,19 @@
 <details>
   <summary>
     Component Diagram
+  </summary>  
 
-  </summary>
+  <img width="3551" alt="Software Architecture - A8 (4)" src="https://github.com/BookKuStore/Archtecture-visualization/assets/120235144/5c1206e9-fdbb-4266-9be0-db7439b15e91">
 
-  1. cart and history
-  ![image](https://github.com/BookKuStore/Archtecture-visualization/assets/124953758/b1be8036-5a15-42eb-9427-4cb5e5745327)
-  
-</details>
-
-<details>
-  <summary>
-    Container Diagram
-  </summary>
-
-  
-</details>
-
-<details>
-  <summary>
-    Deployment Diagram
-  </summary>
-  
 </details>
 
 <details>
   <summary>
     Code Diagram
-   
   </summary>
 
-   1. code-cartandhistorymanagement
-    ![image](https://github.com/BookKuStore/Archtecture-visualization/assets/124953758/ca9198a8-d824-4c24-944d-4f8dc945ecdb)
+  ![kupon_bookku](https://github.com/BookKuStore/Archtecture-visualization/assets/120235144/5d3b0cbf-1c8f-4bb4-92f9-2509a66ac0a3)
 
-  
-</details>
-
-## Future Architecture
-
-<details>
-  <summary>
-    Component Diagram
-  </summary>
-
-  
-</details>
-
-<details>
-  <summary>
-    Container Diagram
-  </summary>
-
-  
 </details>
 
 <details>
@@ -64,5 +26,6 @@
   </summary>
   
 </details>
+
 
 Secara keseluruhan, diagram-diagram di atas dapat dilihat pada https://www.figma.com/board/21XXjJDWwlfjrQQCXWIqT0/Software-Architecture---A8?node-id=0-1&t=TtlDzvG3e689Q4fV-1
