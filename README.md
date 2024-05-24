@@ -66,3 +66,4 @@
 </details>
 
 Secara keseluruhan, diagram-diagram di atas dapat dilihat pada https://www.figma.com/board/21XXjJDWwlfjrQQCXWIqT0/Software-Architecture---A8?node-id=0-1&t=TtlDzvG3e689Q4fV-1
+Selain itu, component diagram dan code diagram dapat dilihat pada branch yang sesuai.
