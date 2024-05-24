@@ -1,6 +1,6 @@
 # Architecture-visualization
 
-## Current Architecture
+## Current-Architecture
 
 <details>
   <summary>
