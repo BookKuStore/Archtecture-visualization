@@ -1,4 +1,4 @@
-# Architecture-visualization
+![Component Book Diagram](https://github.com/BookKuStore/Archtecture-visualization/assets/119420957/cbfde49c-9528-4496-9109-99993e97a206)# Architecture-visualization
 
 ## Current-Architecture
 
@@ -9,6 +9,8 @@
   </summary>
 
   <img width="1954" alt="Software Architecture - A8 (2)" src="https://github.com/BookKuStore/Archtecture-visualization/assets/120235144/1f018cf9-f8c1-497c-a6d4-27a34820410b">
+
+  ![Component Book Diagram](https://github.com/BookKuStore/Archtecture-visualization/assets/119420957/9d53214a-d818-490b-9cfa-cd7b04d0bde7)
   
 </details>
 
