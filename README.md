@@ -8,6 +8,8 @@
 
   </summary>
 
+  <img width="1954" alt="Software Architecture - A8 (2)" src="https://github.com/BookKuStore/Archtecture-visualization/assets/120235144/1f018cf9-f8c1-497c-a6d4-27a34820410b">
+
   1. cart and history
   ![image](https://github.com/BookKuStore/Archtecture-visualization/assets/124953758/b1be8036-5a15-42eb-9427-4cb5e5745327)
   
@@ -18,14 +20,17 @@
     Container Diagram
   </summary>
 
-  
+  <img width="3616" alt="Software Architecture - A8 (1)" src="https://github.com/BookKuStore/Archtecture-visualization/assets/120235144/07f816c8-8c4f-4dc6-9eff-396bb147ffe6">
+
 </details>
 
 <details>
   <summary>
     Deployment Diagram
   </summary>
-  
+
+  <img width="3552" alt="Software Architecture - A8 (3)" src="https://github.com/BookKuStore/Archtecture-visualization/assets/120235144/aa6170bd-6f51-4f54-9196-326f9a9ab0c2">
+
 </details>
 
 <details>
